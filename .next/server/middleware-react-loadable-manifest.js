@@ -1,0 +1,1 @@
+self.__REACT_LOADABLE_MANIFEST={"..\\src\\components\\Works.js -> ./PortfolioIsotope":{id:6499,files:["static/chunks/391.c6eeca109a092ca1.js","static/chunks/499.df4f76704b152759.js"]}};
